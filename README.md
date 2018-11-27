@@ -180,30 +180,30 @@
 
 * 싸이그래머
   - 정통.. 심리학 그룹 
-  - https://www.facebook.com/groups/psygrammer/
-  - <홈페이지> www.thepsygrammer.wordpress.com
+  - <a href="https://www.facebook.com/groups/psygrammer/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psygrammer Facebook');">https://www.facebook.com/groups/psygrammer/</a>
+  - <홈페이지> <a href="www.thepsygrammer.wordpress.com" onclick="ga('send', 'event', 'OutLink', 'Homepage Click', 'Psygrammer Homepage');">www.thepsygrammer.wordpress.com</a>
 
 * 딥리워드
   - 강화학습 스터디 그룹 
-  - https://www.facebook.com/groups/DeepReward/
+  - <a href="https://www.facebook.com/groups/DeepReward/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'DeepReward Facebook');">https://www.facebook.com/groups/DeepReward/</a>
 
 * 싸이지먼트
   - 응용 사회 & 심리 & 경제 & 경영 스터디 그룹 
-  - https://www.facebook.com/groups/psygement/
+  - <a href="https://www.facebook.com/groups/psygement/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psygement Facebook');">https://www.facebook.com/groups/psygement/</a>
 
 * 바벨피쉬
   - 계산심리언어학 스터디 그룹 
-  - https://www.facebook.com/groups/babelPish/
+  - <a href="https://www.facebook.com/groups/babelPish/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'BabelPish Facebook');">https://www.facebook.com/groups/babelPish/</a>
 
 * 데이터그램
   - 데이터 시각화 스터디 그룹 
-  - https://www.facebook.com/groups/datergram/
+  - <a href="https://www.facebook.com/groups/datergram/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Datergram Facebook');">https://www.facebook.com/groups/datergram/</a>
 
 * 뷰티플체인
   - 블록체인 스터디 그룹 
-  - https://www.facebook.com/groups/beautifulchain/
+  - <a href="https://www.facebook.com/groups/beautifulchain/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Beautifulchain Facebook');">https://www.facebook.com/groups/beautifulchain/</a>
 
 * 유니버스
   - 가상 환경/Human-Agent Interaction 스터디 그룹 
-  - https://www.facebook.com/groups/theUnibus
+  - <a href="https://www.facebook.com/groups/theUnibus" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Unibus Facebook');">https://www.facebook.com/groups/theUnibus</a>
 
