@@ -2,7 +2,8 @@
 
 <img src="https://psybus.github.io/adieu/img/logo.jpg" >
 
-<a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psybus Facebook');">싸이버스</a> 송년회<br><br>
+<br><br>
+2018년 <a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Psybus Facebook');">싸이버스</a> 송년회 페이지 입니다.<br><br>
 <b>참가 신청</b> -> 
 <a href="https://www.facebook.com/events/311339979593531/" onclick="ga('send', 'event', 'OutLink', 'Facebook Click', 'Facebook Event - Psybus Adieu 2018');">페이스북 이벤트 링크</a>의 이벤트에서 '참석'을 눌러주세요.<br>
 ('관심 있음'은 참석명단에 포함되지 않습니다)
