@@ -31,28 +31,28 @@
 |---|---|---|
 | 3:00 - 3:05 | 여는 말 & <a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Psybus Facebook');">싸이버스</a> 소개  | 김무성  |
 ||<center>세션 : #1</center>||
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote1');">키노트 : TBA</a>  | 박정은  |
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ReBasic');">[스터디 소개] ReBasic</a>  | 김형락  |
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepCon');">[스터디 소개] 딥커넥션,딥초이스,딥씨티</a> | 김무성  |
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PyEmotion');">[스터디 소개] 파이모션</a> | 이윤경  |
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'UniBus');">[스터디 소개] 유니버스</a> | 이윤경  |
+|   | <a href="https://psybus.github.io/adieu/#keynote-1--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote1');">키노트 : TBA</a>  | 박정은  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-rebasic" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ReBasic');">[스터디 소개] ReBasic</a>  | 김형락  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-딥커넥션딥초이스딥씨티" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepCon');">[스터디 소개] 딥커넥션,딥초이스,딥씨티</a> | 김무성  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-파이모션" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PyEmotion');">[스터디 소개] 파이모션</a> | 이윤경  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-유니버스" onclick="ga('send', 'event', 'InLink', 'Title Click', 'UniBus');">[스터디 소개] 유니버스</a> | 이윤경  |
 ||<center>세션 : #2</center>||
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'QnA');">설문발표</a>  | 김무성  |
+|   | <a href="https://psybus.github.io/adieu/#설문발표" onclick="ga('send', 'event', 'InLink', 'Title Click', 'QnA');">설문발표</a>  | 김무성  |
 ||<center>세션 : #3</center>||
-|   | <a href="https://psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Networking');">Coffee Break & 네트워킹</a>  |   |
+|   | <a href="https://psybus.github.io/adieu/#coffee-break--네트워킹" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Networking');">Coffee Break & 네트워킹</a>  |   |
 ||<center>세션 : #4</center>||  
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote2');">키노트 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기</a> | 조원익  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote3');">키노트 :  TBA</a> | 오회근  |
+|   | <a href="psybus.github.io/adieu/#keynote-2--lifeless-poor-grad-students-annotate-furiously부제-음성-연구자의-자연어-삽질기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote2');">키노트 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기</a> | 조원익  |
+|   | <a href="psybus.github.io/adieu/#keynote-3--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote3');">키노트 :  TBA</a> | 오회근  |
 ||<center>세션 : #5</center>||
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BeautifuChain');">[스터디 소개] 뷰티플체인</a>| 오회근  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepScale');">[스터디 소개] 딥스케일</a>| 김정주  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Gradient');">[스터디 소개] 그래디언트</a>| 김무성  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelBot');">[스터디 소개] 바벨봇</a>| 김형락  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelStack');">[스터디 소개] 바벨스택</a>| 이재일  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Datagram');">[스터디 소개] 데이터그램 관련</a>|   |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-뷰티플체인" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BeautifuChain');">[스터디 소개] 뷰티플체인</a>| 오회근  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-딥스케일" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepScale');">[스터디 소개] 딥스케일</a>| 김정주  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-그래디언트" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Gradient');">[스터디 소개] 그래디언트</a>| 김무성  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-바벨봇" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelBot');">[스터디 소개] 바벨봇</a>| 김형락  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-바벨스택" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelStack');">[스터디 소개] 바벨스택</a>| 이재일  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-데이터그램" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Datagram');">[스터디 소개] 데이터그램 관련</a>|   |
 ||<center>세션 : #6</center>||
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ProPsy');">[스터디 소개] 프로싸이</a>| 김수연  |
-|   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'CloudPsy');">[스터디 소개] 클라우드싸이</a>| 김무성  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-프로싸이" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ProPsy');">[스터디 소개] 프로싸이</a>| 김수연  |
+|   | <a href="psybus.github.io/adieu/#스터디-소개-클라우드싸이" onclick="ga('send', 'event', 'InLink', 'Title Click', 'CloudPsy');">[스터디 소개] 클라우드싸이</a>| 김무성  |
 | 5:55 - 6:00 | 닫는 말   | 김무성  |
 
 
@@ -111,13 +111,13 @@
 
 ### 세션 #4
 
-#### 키노트 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기
+#### keynote 2 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기
 
 * 발표자 : 조원익
 * 자료 : 
 * 요약 : 자연어처리 
 
-#### 키노트 :  TBA
+#### keynote 3 :  TBA
 
 * 발표자 : 오회근
 * 자료 : 
@@ -137,7 +137,7 @@
 * 자료 : 
 * 요약 : 분산/병렬 상황에서의 강화학습, 그리고 실질적인 딥러닝 자연어처리
 
-#### [스터디 소개] 그래디언
+#### [스터디 소개] 그래디언트
 * 발표자 : 김무성
 * 자료 : 
 * 요약 : 딥마인드를 통해 알아보는 머신러닝의 최전선
