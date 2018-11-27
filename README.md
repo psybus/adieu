@@ -18,12 +18,11 @@
 주최 : 싸이버스
 후원 : 네이버 D2
 모임준비 : (가나다순) 김무성, 김수연, 김승욱, 이윤경, 주일택, 홍남수
-참여 그룹 : 
-* 싸이그래머, 딥리워드, 싸이지먼트, 바벨피쉬, 데이터그램, 뷰티플체인, 유니버스
 ```
 
 <table cellpadding="0" cellspacing="0" width="462"> <tr> <td style="border:1px solid #cecece;"><a href="https://map.naver.com/?searchCoord=0926e4c7e8d90d919b51b08d9f802966e54c533441264ee45c06d39e6899fea0&query=6rCV64KoIO2GoOymiCAy7Zi47KCQ&tab=1&lng=9a5edf777dee6a899c638376471eee6f&mapMode=0&mpx=4c785ec8d164612d13a461dd45927a6e6757f454ecb4d78a359f8815e9d3fefd91f2dcbf890ef2f9e44823419eaaba2a3c138707debcf8b64f2d9d931c2ef426&lat=8f54de17cd1daec8f4b980c248f74d8c&dlevel=12&enc=b64&menu=location" target="_blank"><img src="http://prt.map.naver.com/mashupmap/print?key=p1543336839869_-207564115" width="460" height="340" alt="지도 크게 보기" title="지도 크게 보기" border="0" style="vertical-align:top;"/></a></td> </tr> <tr> <td> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td height="30" bgcolor="#f9f9f9" align="left" style="padding-left:9px; border-left:1px solid #cecece; border-bottom:1px solid #cecece;"> <span style="font-family: tahoma; font-size: 11px; color:#666;">2018.11.28</span>&nbsp;<span style="font-size: 11px; color:#e5e5e5;">|</span>&nbsp;<a style="font-family: dotum,sans-serif; font-size: 11px; color:#666; text-decoration: none; letter-spacing: -1px;" href="https://map.naver.com/?searchCoord=0926e4c7e8d90d919b51b08d9f802966e54c533441264ee45c06d39e6899fea0&query=6rCV64KoIO2GoOymiCAy7Zi47KCQ&tab=1&lng=9a5edf777dee6a899c638376471eee6f&mapMode=0&mpx=4c785ec8d164612d13a461dd45927a6e6757f454ecb4d78a359f8815e9d3fefd91f2dcbf890ef2f9e44823419eaaba2a3c138707debcf8b64f2d9d931c2ef426&lat=8f54de17cd1daec8f4b980c248f74d8c&dlevel=12&enc=b64&menu=location" target="_blank">지도 크게 보기</a> </td> <td width="98" bgcolor="#f9f9f9" align="right" style="text-align:right; padding-right:9px; border-right:1px solid #cecece; border-bottom:1px solid #cecece;"> <span style="float:right;"><span style="font-size:9px; font-family:Verdana, sans-serif; color:#444;">&copy;&nbsp;</span>&nbsp;<a style="font-family:tahoma; font-size:9px; font-weight:bold; color:#2db400; text-decoration:none;" href="http://www.nhncorp.com" target="_blank">NAVER Corp.</a></span> </td> </tr> </table> </td> </tr> </table>
 
+<br><br>
 ## 시간표
 
 * 아직 확정되지 않았습니다. 발표 내용과 순서는 조정될 수 있습니다.
@@ -56,6 +55,8 @@
 |   | <a href="psybus.github.io/adieu/#" onclick="ga('send', 'event', 'InLink', 'Title Click', 'CloudPsy');">[스터디 소개] 클라우드싸이</a>| 김무성  |
 | 5:55 - 6:00 | 닫는 말   | 김무성  |
 
+
+<br><br>
 
 ## 내용
 
@@ -173,4 +174,36 @@
 * 요약 : 클라우드 서비스를 활용한 머신러닝 
 
 
+----------
+
+## 참여그룹 
+
+* 싸이그래머
+  - 정통.. 심리학 그룹 
+  - https://www.facebook.com/groups/psygrammer/
+  - <홈페이지> www.thepsygrammer.wordpress.com
+
+* 딥리워드
+  - 강화학습 스터디 그룹 
+  - https://www.facebook.com/groups/DeepReward/
+
+* 싸이지먼트
+  - 응용 사회 & 심리 & 경제 & 경영 스터디 그룹 
+  - https://www.facebook.com/groups/psygement/
+
+* 바벨피쉬
+  - 계산심리언어학 스터디 그룹 
+  - https://www.facebook.com/groups/babelPish/
+
+* 데이터그램
+  - 데이터 시각화 스터디 그룹 
+  - https://www.facebook.com/groups/datergram/
+
+* 뷰티플체인
+  - 블록체인 스터디 그룹 
+  - https://www.facebook.com/groups/beautifulchain/
+
+* 유니버스
+  - 가상 환경/Human-Agent Interaction 스터디 그룹 
+  - https://www.facebook.com/groups/theUnibus
 
