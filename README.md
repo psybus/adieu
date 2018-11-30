@@ -25,8 +25,6 @@
 <br><br>
 ## 시간표
 
-* 아직 확정되지 않았습니다. 발표 내용과 순서는 조정될 수 있습니다.
-
 |시간| 제목  |  발표자  |
 |---|---|---|
 | 3:00 - 3:05 | 여는 말 & <a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Psybus Facebook');">싸이버스</a> 소개  | 김무성  |
