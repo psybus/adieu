@@ -30,29 +30,30 @@
 |시간| 제목  |  발표자  |
 |---|---|---|
 | 3:00 - 3:05 | 여는 말 & <a href="https://www.facebook.com/thepsybus/" onclick="ga('send', 'event', 'OutLink', 'Psybus Facebook');">싸이버스</a> 소개  | 김무성  |
-||<center>세션 : #1</center>||
-|   | <a href="https://psybus.github.io/adieu/#keynote-1--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote1');">키노트 : TBA</a>  | 박정은  |
-|   | <a href="https://psybus.github.io/adieu/#스터디-소개-rebasic" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ReBasic');">[스터디 소개] ReBasic</a>  | 김형락  |
-|   | <a href="https://psybus.github.io/adieu/#스터디-소개-딥커넥션딥초이스딥씨티" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepCon');">[스터디 소개] 딥커넥션,딥초이스,딥씨티</a> | 김무성  |
+||<center>세션 #1</center>||
+| 3:05 - 3:20  | <a href="https://psybus.github.io/adieu/#keynote-1--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote1');">키노트 1 : 스터디는 안 나가지만 인싸 스터디는 알고 싶어 - 비전공/비개발/비관리자 주변인의 싸이버스 돌아보기</a>  | 박정은  |
+| 3:20 - 3:35  | <a href="https://psybus.github.io/adieu/#keynote-2--lifeless-poor-grad-students-annotate-furiously부제-음성-연구자의-자연어-삽질기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote2');">키노트 2 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기</a> | 조원익  |
+| 3:40 - 3:55  | <a href="https://psybus.github.io/adieu/#keynote-3--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote3');">키노트 3 :  비트코인 블록체인에 데이터 히치하이킹</a> | 오회근  |
+||<center>세션 #2] 4:00 - 4:20  </center>||
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-뷰티플체인" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BeautifuChain');">[스터디 소개] 뷰티플체인</a>| 오회근  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-파이모션" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PyEmotion');">[스터디 소개] 파이모션</a> | 이윤경  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-유니버스" onclick="ga('send', 'event', 'InLink', 'Title Click', 'UniBus');">[스터디 소개] 유니버스</a> | 이윤경  |
-||<center>세션 : #2</center>||
-|   | <a href="https://psybus.github.io/adieu/#설문발표" onclick="ga('send', 'event', 'InLink', 'Title Click', 'QnA');">설문발표</a>  | 김무성  |
-||<center>세션 : #3</center>||
-|   | <a href="https://psybus.github.io/adieu/#coffee-break--네트워킹" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Networking');">Coffee Break & 네트워킹</a>  |   |
-||<center>세션 : #4</center>||  
-|   | <a href="https://psybus.github.io/adieu/#keynote-2--lifeless-poor-grad-students-annotate-furiously부제-음성-연구자의-자연어-삽질기" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote2');">키노트 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기</a> | 조원익  |
-|   | <a href="https://psybus.github.io/adieu/#keynote-3--tba" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Keynote3');">키노트 :  TBA</a> | 오회근  |
-||<center>세션 : #5</center>||
-|   | <a href="https://psybus.github.io/adieu/#스터디-소개-뷰티플체인" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BeautifuChain');">[스터디 소개] 뷰티플체인</a>| 오회근  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-프로싸이" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ProPsy');">[스터디 소개] 프로싸이</a>| 김수연  |
+||<center>세션 #3] 4:20 - 4:40 </center>||
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-딥스케일" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepScale');">[스터디 소개] 딥스케일</a>| 김정주  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-그래디언트" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Gradient');">[스터디 소개] 그래디언트</a>| 김무성  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-데이터그램" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Datagram');">[스터디 소개] 데이터그램 관련</a>|   |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-싸이ML" onclick="ga('send', 'event', 'InLink', 'Title Click', 'PsyML');">[스터디 소개] 싸이ML</a>  | 김지원  |
+||<center>세션 #4] 4:45 - 5:05 </center>||
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-rebasic" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ReBasic');">[스터디 소개] ReBasic</a>  | 김형락  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-바벨봇" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelBot');">[스터디 소개] 바벨봇</a>| 김형락  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-바벨스택" onclick="ga('send', 'event', 'InLink', 'Title Click', 'BabelStack');">[스터디 소개] 바벨스택</a>| 이재일  |
-|   | <a href="https://psybus.github.io/adieu/#스터디-소개-데이터그램" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Datagram');">[스터디 소개] 데이터그램 관련</a>|   |
-||<center>세션 : #6</center>||
-|   | <a href="https://psybus.github.io/adieu/#스터디-소개-프로싸이" onclick="ga('send', 'event', 'InLink', 'Title Click', 'ProPsy');">[스터디 소개] 프로싸이</a>| 김수연  |
+|   | <a href="https://psybus.github.io/adieu/#스터디-소개-딥커넥션딥초이스딥씨티" onclick="ga('send', 'event', 'InLink', 'Title Click', 'DeepCon');">[스터디 소개] 딥커넥션,딥초이스,딥씨티</a> | 김무성  |
 |   | <a href="https://psybus.github.io/adieu/#스터디-소개-클라우드싸이" onclick="ga('send', 'event', 'InLink', 'Title Click', 'CloudPsy');">[스터디 소개] 클라우드싸이</a>| 김무성  |
+||<center>세션 #5] 5:05 - 5:45 </center>||
+|   | <a href="https://psybus.github.io/adieu/#coffee-break--네트워킹" onclick="ga('send', 'event', 'InLink', 'Title Click', 'Networking');">Coffee Break & 네트워킹</a>  |   |
+||<center>세션 #6</center>||
+| 5:45 - 5:55  | <a href="https://psybus.github.io/adieu/#설문발표" onclick="ga('send', 'event', 'InLink', 'Title Click', 'QnA');">설문발표</a>  | 김무성  |
 | 5:55 - 6:00 | 닫는 말   | 김무성  |
 
 
@@ -62,22 +63,33 @@
 
 ### 세션 #1
 
-#### Keynote 1 : TBA
+#### Keynote 1 : 스터디는 안 나가지만 인싸 스터디는 알고 싶어 
+* 부제 : 비전공/비개발/비관리자 주변인의 싸이버스 돌아보기
 * 발표자 : 박정은
 * 자료 :
 * 요약 : 싸이버스 히스토리
 
-
-#### [스터디 소개] ReBasic
-
-* 발표자 : 김형락 
+#### keynote 2 :  Lifeless Poor Grad students Annotate Furiously
+* 부제: 음성 연구자의 자연어 삽질기
+* 발표자 : 조원익
 * 자료 : 
-* 요약 : 강화학습 스터디
+* 요약 : 자연어처리 
 
-#### [스터디 소개] 딥커넥션,딥초이스,딥씨티
-* 발표자 : 김무성
-* 자료 :
-* 요약 : 인지과학 & 의사결정 - 주식/부동산
+#### keynote 3 :  비트코인 블록체인에 데이터 히치하이킹
+
+* 발표자 : 오회근
+* 자료 : 
+* 요약 : 블록체인
+
+----------
+
+### 세션 #2
+
+
+#### [스터디 소개] 뷰티플체인
+* 발표자 : 오회근
+* 자료 : 
+* 요약 : 블록체인
 
 #### [스터디 소개] 파이모션
 * 발표자 : 이윤경
@@ -89,48 +101,14 @@
 * 자료 :
 * 요약 : Simulated World - 유니티 & ML Agents
 
-----------
-
-### 세션 #2
-
-#### 설문발표
-* 발표자 : 김무성
-* 자료 : 
-* 요약 : 
+#### [스터디 소개] 프로싸이
+* 발표자 : 김수연
+* 자료 :
+* 요약 : 심리학도를 위한 확률 모델링 이론 기본
 
 ----------
 
 ### 세션 #3
-
-#### Coffee Break & 네트워킹
-* 발표자 : 
-* 자료 : 
-* 요약 : 
-
-----------
-
-### 세션 #4
-
-#### keynote 2 :  Lifeless Poor Grad students Annotate Furiously<br>부제: 음성 연구자의 자연어 삽질기
-
-* 발표자 : 조원익
-* 자료 : 
-* 요약 : 자연어처리 
-
-#### keynote 3 :  TBA
-
-* 발표자 : 오회근
-* 자료 : 
-* 요약 : 블록체인
-
-----------
-
-### 세션 #5
-
-#### [스터디 소개] 뷰티플체인
-* 발표자 : 오회근
-* 자료 : 
-* 요약 : 블록체인
 
 #### [스터디 소개] 딥스케일
 * 발표자 : 김정주
@@ -142,6 +120,30 @@
 * 자료 : 
 * 요약 : 딥마인드를 통해 알아보는 머신러닝의 최전선
 
+
+#### [스터디 소개] 데이터그램
+* 발표자 : 김승욱
+* 자료 :
+* 요약 :
+
+
+#### [스터디 소개] 싸이ML
+* 발표자 : 김지원
+* 자료 :
+* 요약 :
+
+
+----------
+
+### 세션 #4
+
+
+#### [스터디 소개] ReBasic
+
+* 발표자 : 김형락 
+* 자료 : 
+* 요약 : 강화학습 스터디
+
 #### [스터디 소개] 바벨봇
 * 발표자 : 김형락
 * 자료 :
@@ -152,26 +154,36 @@
 * 자료 :
 * 요약 : 실질적인 자연어처리 관련 기술 스택
 
-#### [스터디 소개] 데이터그램
-* 발표자 : 
+#### [스터디 소개] 딥커넥션,딥초이스,딥씨티
+* 발표자 : 김무성
 * 자료 :
-* 요약 :
+* 요약 : 인지과학 & 의사결정 - 주식/부동산
 
+
+#### [스터디 소개] 클라우드싸이
+* 발표자 : 김무성
+* 자료 :
+* 요약 : 클라우드 서비스를 활용한 머신러닝 
+
+----------
+
+### 세션 #5
+
+#### Coffee Break & 네트워킹
+* 발표자 : 
+* 자료 : 
+* 요약 : 
 
 ----------
 
 ### 세션 #6
 
 
-#### [스터디 소개] 프로싸이
-* 발표자 : 김수연
-* 자료 :
-* 요약 : 심리학도를 위한 확률 모델링 이론 기본
-
-#### [스터디 소개] 클라우드싸이
+#### 설문발표
 * 발표자 : 김무성
-* 자료 :
-* 요약 : 클라우드 서비스를 활용한 머신러닝 
+* 자료 : 
+* 요약 : 
+
 
 
 ----------
